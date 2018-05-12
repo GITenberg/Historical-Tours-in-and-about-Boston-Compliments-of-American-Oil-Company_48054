@@ -1,10 +1,16 @@
 _repo: Historical-Tours-in-and-about-Boston-Compliments-of-American-Oil-Company_48054
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48054-h/images/cover.jpg
 creator:
   author:
     agent_name: Corporation, American Oil
     gutenberg_agent_id: '44598'
     url: http://www.gutenberg.org/2009/agents/44598
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48054#Historical-Tours-in-and-about-Boston-Compliments-of-American-Oil-Company
 gutenberg_issued: '2015-01-23'
 gutenberg_type: Text
 identifiers:
